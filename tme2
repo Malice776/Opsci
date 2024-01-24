@@ -1,5 +1,1 @@
-exo 3 : chmod 700 /users/Etu5/21109075 # pour proteger ton compte
 
-exercice 1:
-
-ssh root@${URL_SSH} -v
